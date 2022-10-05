@@ -32,7 +32,7 @@ export default function App() {
 
 	return (
 		<>
-			<StatusBar style='dark' /> // to see phone info
+			<StatusBar style='dark' />
 			<View style={styles.appContainer}>
 				<Button
 					title='Add New Goal'
